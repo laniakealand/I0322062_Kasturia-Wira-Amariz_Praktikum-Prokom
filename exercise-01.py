@@ -1,0 +1,5 @@
+print("Nama lengkap= Kasturia Wira Amariz")
+print("NIM= I0322062")
+print("Tempat tinggal = Jakarta Selatan")
+print("Visualisasi tempat tinggal= Panas dan jarang ada pohon, ada pasar kain dan beberapa mall, dan jalanannya macet ")
+print(" Harapan saya setelah lulus dari teknik industri adalah dapat menerapkan ilmu yang saya punya di pekerjaan saya nantinya")
